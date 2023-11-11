@@ -7,20 +7,48 @@ Welcome to the Bugs & Glitches Organization, an open-source community dedicated 
 
 We are a group of passionate developers striving to create a glitch-free world. Join us in our journey to make software better, one bug at a time.
 
+
 ## Connect With Us
 📱 **Telegram:** [Join our Telegram group](https://t.me/BugsandGlitches)
 📲 **WhatsApp:** [Connect on WhatsApp](https://whatsapp.com/channel/0029VaDrEAuBadmUrDFSp12I )
 
 ## Social Media
-📸 **Instagram:** [Follow us on Instagram](insert link here)
-▶️ **YouTube:** [Subscribe to our YouTube channel](insert link here)
+📸 [Instagram](insert link to Instagram): Follow us on Instagram
+▶️ [YouTube](insert link to YouTube): Subscribe to our YouTube channel
 
 ## What We Offer
-- 🌐 A diverse range of projects to work on, from minor UI fixes to complex backend solutions.
-- 📚 Access to resources, tutorials, and guides to enhance your skills.
-- 🤝 A welcoming, inclusive community where your contributions matter.
+🌐 A diverse range of projects to work on, from minor UI fixes to complex backend solutions.
+📚 Access to resources, tutorials, and guides to enhance your skills.
+🤝 A welcoming, inclusive community where your contributions matter.
 
 ## Get Involved
-Feel free to explore our repositories, find a project that interests you, and start contributing. Every line of code matters, no matter how small. Join us and let's create a glitch-free tomorrow!
+Feel free to explore our [bugs-and-glitches.github.io](https://bugs-and-glitches.github.io/), find a project that interests you, and start contributing. Every line of code matters, no matter how small. Join us and let's create a glitch-free tomorrow!
 
-#OpenSource #BugHunting #Community #Coding #GitHub #Collaboration
+## Additional Information
+
+### Programming Languages
+- Python
+- JavaScript
+- Java
+- Ruby
+- C++
+- C#
+- PHP
+- Swift
+- TypeScript
+- Go
+- Kotlin
+- and more!
+
+### Other Tags
+- #OpenSource
+- #BugHunting
+- #Community
+- #Coding
+- #GitHub
+- #Collaboration
+
+## Visit Our Website
+For more information, visit our [iamprathameshmore.cu.ma](https://iamprathameshmore.cu.ma).
+
+## #OpenSource #BugHunting #Community #Coding #GitHub #Collaboration
