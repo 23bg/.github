@@ -8,8 +8,8 @@ Welcome to the Bugs & Glitches Organization, an open-source community dedicated 
 We are a group of passionate developers striving to create a glitch-free world. Join us in our journey to make software better, one bug at a time.
 
 ## Connect With Us
-📱 **Telegram:** [Join our Telegram group](https://t.me/BugsGlitchesOrg)
-📲 **WhatsApp:** [Connect on WhatsApp](insert link here)
+📱 **Telegram:** [Join our Telegram group](https://t.me/BugsandGlitches)
+📲 **WhatsApp:** [Connect on WhatsApp](https://whatsapp.com/channel/0029VaDrEAuBadmUrDFSp12I )
 
 ## Social Media
 📸 **Instagram:** [Follow us on Instagram](insert link here)
