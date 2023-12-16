@@ -4,6 +4,7 @@ Welcome to the Bugs & Glitches Organization, an open-source community dedicated 
 
 ## About
 <img src="https://github.com/iamprathameshmore.png" width="50px;" />
+
 👨‍💻 **Creater:** [@iamprathameshmore](https://github.com/iamprathameshmore)
 
 We are a group of passionate developers striving to create a glitch-free world. Join us in our journey to make software better, one bug at a time.
