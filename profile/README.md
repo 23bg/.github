@@ -3,7 +3,7 @@
 Welcome to the Bugs & Glitches Organization, an open-source community dedicated to squashing bugs, fixing glitches, and fostering a collaborative developer environment.
 
 ## About
-<img src="https://github.com/iamprathameshmore.png"  style="border-radius:50%; width=50px;" alt="Avatar" />
+<img src="https://github.com/iamprathameshmore.png"  style="width:50px; "  />
 
 👨‍💻 **Creater:** [@iamprathameshmore](https://github.com/iamprathameshmore)
 
