@@ -49,7 +49,7 @@ Feel free to explore our [bugs-and-glitches.github.io](https://bugs-and-glitches
 - #Collaboration
 
 ## Visit Our Website
-<img src="https://github.com/iamprathameshmore.png" width="60px;" border-radius:"50px"/><br /><sub><a href="https://github.com/iamprathameshmore">iamprathameshmore07</a></sub>
+<img src="https://github.com/iamprathameshmore.png" width="60px;" border-radius:"50px;"/><br /><sub><a href="https://github.com/iamprathameshmore">iamprathameshmore07</a></sub>
 
 For more information, visit our [iamprathameshmore.cu.ma](https://iamprathameshmore.cu.ma).
 
