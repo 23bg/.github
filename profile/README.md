@@ -52,6 +52,7 @@ Feel free to explore our [bugs-and-glitches.github.io](https://bugs-and-glitches
 
 ## Our Team 
 <img src="https://github.com/iamgauravaawanke.png" width="50px;" />
+</t>
 <img src="https://github.com/iamprathameshmore.png" width="50px;" />
 <img src="https://github.com/iamprathameshmore.png" width="50px;" />
 ## Visit Our Website
