@@ -53,6 +53,7 @@ Feel free to explore our [bugs-and-glitches.github.io](https://bugs-and-glitches
 ## Our Team 
 <div style="align-item:center;">
 <img src="https://github.com/iamgauravaawanke.png"  style="width:50px;" />
+<img src="https://github.com/iamgauravaawanke.png"  style="width:50px;" />
 <img src="https://github.com/Iamprashammodak.png" width="50px;" />
 <img src="https://github.com/sarthak-Bharne.png" width="50px;" />
 <img src="https://github.com/SanskarNagdive.png" width="50px;" />
