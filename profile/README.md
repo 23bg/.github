@@ -24,7 +24,7 @@ We are a group of passionate developers striving to create a glitch-free world. 
 🤝 A welcoming, inclusive community where your contributions matter.
 
 ## Get Involved
-Feel free to explore our [bugs-and-glitches.github.io](https://bugs-and-glitches.github.io/), find a project that interests you, and start contributing. Every line of code matters, no matter how small. Join us and let's create a glitch-free tomorrow!
+Feel free to explore our [bugs-and-glitches.github.io](https://23bg.vercel.app/), find a project that interests you, and start contributing. Every line of code matters, no matter how small. Join us and let's create a glitch-free tomorrow!
 
 ## Additional Information
 
