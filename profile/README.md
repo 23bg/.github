@@ -12,7 +12,8 @@ We are a group of passionate developers striving to create a glitch-free world. 
 
 ## Connect With Us
 📱 **Telegram:** [Join our Telegram group](https://t.me/BugsandGlitches)
-📲 **WhatsApp:** [Connect on WhatsApp](https://chat.whatsapp.com/Ck7nmRUEmEcFWDKNHnvX7y)
+📲 **WhatsApp:** [Connect on WhatsApp](https://chat.whatsapp.com/Ezk7dvAmBB25NgDQVveheS)
+📲 **Discord:** [Connect on Discord](https://discord.com/invite/Puzns6p5)
 
 ## Social Media
 📸 [Instagram](insert link to Instagram): Follow us on Instagram
