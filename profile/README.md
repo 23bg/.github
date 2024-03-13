@@ -1,4 +1,4 @@
-# Bugs & Glitches Developer community 🐞✨
+# Bugs & Glitches Developer Community 🐞✨
 
 Welcome to the Bugs & Glitches Organization, an open-source community dedicated to squashing bugs, fixing glitches, and fostering a collaborative developer environment.
 
