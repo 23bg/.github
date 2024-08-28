@@ -1,6 +1,6 @@
 # 23BG - Automation and Management Tool for Businesses
 
-![23BG Logo](path-to-logo-image)
+![23BG Logo](https://avatars.githubusercontent.com/u/150508557?v=4)
 
 23BG is a comprehensive automation and management tool designed to streamline operations, enhance efficiency, and simplify business processes. Crafted with precision and care, this tool is perfect for businesses looking to optimize their workflow.
 
