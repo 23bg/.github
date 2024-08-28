@@ -18,15 +18,6 @@
 
 To get started with 23BG, visit our official website at [23bg.tech](https://23bg.tech). Here, you can explore the platform, sign up for an account, and start using the tool to enhance your business operations.
 
-## Installation
-
-To install and run 23BG locally:
-
-```bash
-git clone https://github.com/iamprathameshmore/23BG.git
-cd 23BG
-# Follow the setup instructions in the documentation
-```
 
 ## Documentation
 
